@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>johan</label>
+		<id>0</id>
+		<version>0</version>
+	</settings>
+	<users>
+		<user>
+			<path>johan.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>johan\johan.jcp</path>
+		</project>
+	</projects>
+</workspace>
